@@ -1,13 +1,13 @@
 <div align="center">	
 	<p>	
-		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
+		<a href="https://telixia.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
       <div>	
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
+				<img src="http://telixia.com/img/logo.png" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
-			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
+			<b>Outsource your software products to us</b>	
+			<div>We build your product on time, to specification and within budget</div>
+			<div>Telixia offers talent development, recruiting, and outsourcing!</div>
 			</br>
 		</a>	
 	</p>	
